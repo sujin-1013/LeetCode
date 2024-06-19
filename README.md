@@ -16,3 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sujin-1013/LeetCode/tree/master/0088-merge-sorted-array) |
+# String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/sujin-1013/LeetCode/tree/master/0006-zigzag-conversion) |
