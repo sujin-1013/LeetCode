@@ -12,7 +12,6 @@ class Solution(object):
             if num != val:
                 new_nums.append(num)
 
-        print(new_nums)
         k = len(new_nums)
 
         for i in range(k):
