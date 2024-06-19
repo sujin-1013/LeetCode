@@ -7,7 +7,7 @@ class Solution(object):
         """
         
         new_nums = []
-
+        
         for num in nums:
             if num != val:
                 new_nums.append(num)
