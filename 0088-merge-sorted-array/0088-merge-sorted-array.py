@@ -14,9 +14,7 @@ class Solution(object):
 
         for i in range(n):
             new_list.append(nums2[i])
-        print(new_list)
         new_list.sort()
-        print(new_list)
 
         for i in range(len(new_list)):
             nums1[i] = new_list[i]
