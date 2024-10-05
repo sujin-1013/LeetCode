@@ -41,3 +41,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujin-1013/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sujin-1013/LeetCode/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
