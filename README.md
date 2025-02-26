@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sujin-1013/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sujin-1013/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sujin-1013/LeetCode/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/sujin-1013/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sujin-1013/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sujin-1013/LeetCode/tree/master/0415-add-strings) |
 ## Stack
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/sujin-1013/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujin-1013/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/sujin-1013/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/sujin-1013/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/sujin-1013/LeetCode/tree/master/0338-counting-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/sujin-1013/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
