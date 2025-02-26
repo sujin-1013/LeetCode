@@ -68,11 +68,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sujin-1013/LeetCode/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/sujin-1013/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujin-1013/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/sujin-1013/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujin-1013/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
