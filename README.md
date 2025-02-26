@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/sujin-1013/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujin-1013/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujin-1013/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujin-1013/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/sujin-1013/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sujin-1013/LeetCode/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
