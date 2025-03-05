@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/sujin-1013/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujin-1013/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/sujin-1013/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sujin-1013/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
 |  |
 | ------- |
@@ -116,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sujin-1013/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/sujin-1013/LeetCode/tree/master/0392-is-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
