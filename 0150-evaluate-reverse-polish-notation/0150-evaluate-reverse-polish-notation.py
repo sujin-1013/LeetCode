@@ -7,21 +7,15 @@ class Solution:
             if token not in  "+-*/":
                 stack.append(int(token))
             else:
+                num2 = stack.pop()
+                num1 = stack.pop()
                 if token == "+":
-                    num2 = stack.pop()
-                    num1 = stack.pop()
                     stack.append(num1 + num2)
                 elif token == "-":
-                    num2 = stack.pop()
-                    num1 = stack.pop()
                     stack.append(num1 - num2)
                 elif token == "*":
-                    num2 = stack.pop()
-                    num1 = stack.pop()
                     stack.append(num1 * num2)
                 else:
-                    num2 = stack.pop()
-                    num1 = stack.pop()
                     stack.append(int(num1 / num2))
 
         return stack[0]
