@@ -31,6 +31,9 @@ class Solution:
 
             pre_value = max_value % rest_sum
 
+            if pre_value == 0:
+                return False
+
             heapq.heappush(heap, -pre_value)
 
             total_sum = rest_sum + pre_value
