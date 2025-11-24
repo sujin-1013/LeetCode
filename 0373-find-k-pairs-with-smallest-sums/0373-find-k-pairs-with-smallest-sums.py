@@ -8,7 +8,7 @@ class Solution:
             heapq.heappush(heap,((nums1[i] + nums2[0]), i, 0))
 
         answer = []
-        for _ in range(min(len(heap),k)):
+        for _ in range(k):
             summation, i, j = heapq.heappop(heap)
             answer.append([nums1[i], nums2[j]])
 
