@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujin-1013/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/sujin-1013/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sujin-1013/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -127,9 +128,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sujin-1013/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sujin-1013/LeetCode/tree/master/0022-generate-parentheses) |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sujin-1013/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 <!---LeetCode Topics End-->
