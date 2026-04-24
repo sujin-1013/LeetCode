@@ -44,16 +44,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/sujin-1013/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sujin-1013/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/sujin-1013/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sujin-1013/LeetCode/tree/master/0415-add-strings) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sujin-1013/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/sujin-1013/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sujin-1013/LeetCode/tree/master/0020-valid-parentheses) |
@@ -64,21 +64,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/sujin-1013/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sujin-1013/LeetCode/tree/master/0415-add-strings) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sujin-1013/LeetCode/tree/master/0020-valid-parentheses) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0049-group-anagrams](https://github.com/sujin-1013/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/sujin-1013/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujin-1013/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujin-1013/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0881-boats-to-save-people](https://github.com/sujin-1013/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sujin-1013/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sujin-1013/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0070-climbing-stairs) |
@@ -90,42 +91,45 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujin-1013/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0881-boats-to-save-people](https://github.com/sujin-1013/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sujin-1013/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sujin-1013/LeetCode/tree/master/0049-group-anagrams) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0049-group-anagrams](https://github.com/sujin-1013/LeetCode/tree/master/0049-group-anagrams) |
+| [0881-boats-to-save-people](https://github.com/sujin-1013/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0412-fizz-buzz](https://github.com/sujin-1013/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sujin-1013/LeetCode/tree/master/0415-add-strings) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0338-counting-bits](https://github.com/sujin-1013/LeetCode/tree/master/0338-counting-bits) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sujin-1013/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/sujin-1013/LeetCode/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/sujin-1013/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sujin-1013/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
