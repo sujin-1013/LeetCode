@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/sujin-1013/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujin-1013/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujin-1013/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0200-number-of-islands](https://github.com/sujin-1013/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0747-min-cost-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/sujin-1013/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sujin-1013/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/sujin-1013/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sujin-1013/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Backtracking
@@ -137,5 +139,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/sujin-1013/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sujin-1013/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/sujin-1013/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/sujin-1013/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
