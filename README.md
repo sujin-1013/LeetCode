@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sujin-1013/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0747-min-cost-climbing-stairs](https://github.com/sujin-1013/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/sujin-1013/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0994-rotting-oranges](https://github.com/sujin-1013/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sujin-1013/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/sujin-1013/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/sujin-1013/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sujin-1013/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sujin-1013/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Backtracking
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/sujin-1013/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/sujin-1013/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sujin-1013/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
